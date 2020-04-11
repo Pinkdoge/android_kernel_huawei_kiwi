@@ -43,7 +43,7 @@
                                          fsmgr_flags = "wait";
                                          status = "ok";
                                  };
-				 vendor {
+                                 vendor {
                                          compatible = "android,vendor";
                                          dev = "/dev/block/platform/soc.0/7824900.sdhci/by-name/vendor";
                                          type = "ext4";
